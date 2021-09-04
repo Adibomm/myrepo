@@ -1,2 +1,2 @@
 # myrepo
-this is my repository adi
+this is my repository adi purpose
